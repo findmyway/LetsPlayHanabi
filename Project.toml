@@ -1,0 +1,14 @@
+name = "LetsPlayHanabi"
+uuid = "b6915fb0-673c-11e9-0e00-97b8e5d0ce8b"
+authors = ["Jun Tian <juti@microsoft.com>"]
+version = "0.1.0"
+
+[deps]
+BSON = "fbb218c0-5317-5bc6-957e-2ee96dd4b1f0"
+CUDAnative = "be33ccc6-a3ff-5ff2-a52e-74243cff1e17"
+CuArrays = "3a865a2d-5b23-5a0f-bc46-62713ec82fae"
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+GPUArrays = "0c68f7d7-f131-5f86-a1c3-88cf8149b2d7"
+Hanabi = "705708ad-e62c-5f47-9095-732127600058"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
